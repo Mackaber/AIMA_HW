@@ -1,3 +1,8 @@
+# AIMA_HW
+Homework for the Intelligent Agents class
+
+# (AIMA STUFF...)
+
 <div align="center">
   <a href="http://aima.cs.berkeley.edu/"><img src="https://raw.githubusercontent.com/aimacode/aima-python/master/images/aima_logo.png"></a><br><br>
 </div>
@@ -139,3 +144,5 @@ Here is a table of the implemented data structures, the figure, name of the impl
 # Acknowledgements
 
 Many thanks for contributions over the years. I got bug reports, corrected code, and other support from Darius Bacon, Phil Ruggera, Peng Shao, Amit Patil, Ted Nienstedt, Jim Martin, Ben Catanzariti, and others. Now that the project is on GitHub, you can see the [contributors](https://github.com/aimacode/aima-python/graphs/contributors) who are doing a great job of actively improving the project. Many thanks to all contributors, especially @darius, @SnShine, and @reachtarunhere.
+=======
+
